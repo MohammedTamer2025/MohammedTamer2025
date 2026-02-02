@@ -67,7 +67,7 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="[https://www.linkedin.com/in/mohamedalsayed](https://www.linkedin.com/in/mohammed-tamer-25052933b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="(https://www.linkedin.com/in/mohammed-tamer-25052933b)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   </a>
