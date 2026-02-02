@@ -8,7 +8,7 @@
 
 ### Languages I Work With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
 </p>
 
 - C++: Intermediate (OOP, Data Structures, Basic Algorithms)
@@ -62,22 +62,16 @@
 - 🌐 Web Development Basics - HTML, CSS, JavaScript
 - 🗄 Introduction to Databases - SQL fundamentals
 - 📚 Computer Science Fundamentals - OS, Networking, etc.
----
-
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohamedAlsayed334&theme=react-dark&hide_border=true&area=true)
 
 ---
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamedalsayed" target="_blank">
+  <a href="[https://www.linkedin.com/in/mohamedalsayed](https://www.linkedin.com/in/mohammed-tamer-25052933b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.mohamedalsayed.me/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
-  <a href="mailto:sayedlashine1@gmail.com" target="_blank">
+  <a href="mailto:mohammedlite2@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
