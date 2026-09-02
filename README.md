@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Mohamed Tamer Salah] 
+# 👋 Hello, I'm Mohamed Tamer Salah 
 
 `Student in FCAI Cairo University`
 
